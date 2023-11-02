@@ -1,4 +1,4 @@
-# yuekuiyang
+# Yuekui Yang
 ---
 Yuekui Yang  杨月奎<br>
 PhD Student in CS, Tsinghua University
